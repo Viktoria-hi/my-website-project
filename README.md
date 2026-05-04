@@ -48,16 +48,7 @@
 ## Блог
 <img width="1920" height="986" alt="Снимок экрана от 2026-05-04 13-39-03" src="https://github.com/user-attachments/assets/4c91142b-b529-49cc-afe1-c42969084b76" />
 <img width="1920" height="986" alt="Снимок экрана от 2026-05-04 13-39-07" src="https://github.com/user-attachments/assets/c9e1af94-2056-4bf0-a11e-5d7d8696d1fc" />
-![Uploading Снимок экрана от 2026-05-04 13-49-45.png…]()
-![Uploading Снимок экрана от 2026-05-04 13-49-48.png…]()
-![Uploading Снимок экрана от 2026-05-04 13-49-52.png…]()
-![Uploading Снимок экрана от 2026-05-04 13-49-55.png…]()
-![Uploading Снимок экрана от 2026-05-04 13-52-19.png…]()
-![Uploading Снимок экрана от 2026-05-04 13-52-24.png…]()
-![Uploading Снимок экрана от 2026-05-04 13-52-28.png…]()
-![Uploading Снимок экрана от 2026-05-04 13-53-16.png…]()
-![Uploading Снимок экрана от 2026-05-04 13-53-28.png…]()
-![Uploading Снимок экрана от 2026-05-04 13-53-36.png…]()
+
 
 ## Контакты
 <img width="1920" height="986" alt="Снимок экрана от 2026-05-04 13-39-12" src="https://github.com/user-attachments/assets/0e390651-ab20-4303-8cc1-9e16eac79396" />
